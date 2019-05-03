@@ -1,6 +1,7 @@
 # EIGHT QUEENS PROJECT
 
 AI Project #3 : Solving the Eight Queens problem using Hill Climbing Search ( steepest-ascent version ).
+
 Project Members: Daniel Vilajeti
 
 # Explanation of the ``` Eight_Queens ``` class and its respective member function:
