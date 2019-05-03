@@ -29,7 +29,7 @@ And finally the ```generateChildren``` function which will produce all 7 possibl
 board to the child with the fewest number of attacks.
 
 # OUTPUT
-
+```
 SOLVED
 ---------------------------------
 |   |   |   |   |   | Q |   |   |
@@ -394,3 +394,4 @@ Number of generated boards: 275
 Number of solved states: 20
 Percentage of successfully solved boards: 7.27%
 Program ended with exit code: 0
+```
