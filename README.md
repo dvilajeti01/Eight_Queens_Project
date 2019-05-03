@@ -19,7 +19,7 @@ int generateChildren(int current[8], int col);
 
 ```
 
-The ``` c++ Hill_Climbing_Search ``` is the implementation of the hillclimbing search algorithm. This function is called by the 
+The ``` Hill_Climbing_Search ``` is the implementation of the hillclimbing search algorithm. This function is called by the 
 ```solve``` function.
 
 The ``` numAttacks ``` function calls three seperate functions, each dealing with a certain attack such as horizontal attacks,
