@@ -1,4 +1,4 @@
-#EIGHT QUEENS PROJECT
+# EIGHT QUEENS PROJECT
 
 AI Project #3 : Solving the Eight Queens problem using Hill Climbing Search ( steepest-ascent version ).
 Project Members: Daniel Vilajeti
@@ -28,5 +28,5 @@ lateral down attacks and lateral up attacks. It returns the sum of all three sep
 And finally the ```generateChildren``` function which will produce all 7 possible children for a given column. The function will only change the 
 board to the child with the fewest number of attacks.
 
-#OUTPUT
+# OUTPUT
 
